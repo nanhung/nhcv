@@ -12,9 +12,9 @@ jobtitle: "Associate Toxicologist, California Department of Pesticide Regulation
 #address: "402 Raymond Stotzer Pkwy, College Station, TX 77845"
 fontawesome: yes
 email: nan-hung.hsieh@cdpr.ca.gov
-github: nanhung
+#github: nanhung
 #phone: "+1 555 5555"
-#web: nanhung.rbind.io
+web: www.linkedin.com/in/nhsie/
 updated: yes
 
 keywords: RMarkdown, academic CV, template
@@ -92,6 +92,9 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 - Best PhD Academic Research Paper, National Taiwan University, 2012
 
 # SERVICES TO THE PROFESSION
+
+## Guest Topic Editor
+Research Topic "[Development and utilizing computational tools to support risk assessment](https://www.frontiersin.org/research-topics/23958/development-and-utilizing-computational-tools-to-support-risk-assessment)" in Frontiers in Pharmacology
 
 ## Peer review for scientific journals (count: 40+; [Publons](https://publons.com/researcher/435686/nan-hung-hsieh/peer-review/))
 
