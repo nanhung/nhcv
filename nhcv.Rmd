@@ -96,7 +96,7 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 ## Guest Topic Editor
 Research Topic "[Development and utilizing computational tools to support risk assessment](https://www.frontiersin.org/research-topics/23958/development-and-utilizing-computational-tools-to-support-risk-assessment)" in Frontiers in Pharmacology
 
-## Peer review for scientific journals (count: 40+; [Publons](https://publons.com/researcher/435686/nan-hung-hsieh/peer-review/))
+## Peer review for scientific journals (count: 50+; [Publons](https://publons.com/researcher/435686/nan-hung-hsieh/peer-review/))
 
 - Computational and Mathematical Methods in Medicine 
 - Computational Toxicology 
@@ -104,12 +104,16 @@ Research Topic "[Development and utilizing computational tools to support risk a
 - International Journal of Environmental Research and Public Health 
 - International Journal of Molecular Sciences 
 - European Journal of Pharmaceutical Sciences 
+- Pharmaceutics 
 - Reliability Engineering and System Safety 
 - Science of the Total Environment 
 - Sustainability 
 - Toxicological Sciences 
 - The Journal of Open Source Software
 - The R Journal
+
+## Peer Review of USEPA Project 
+External Peer Review of a Report on Physiologically Based Pharmacokinetic (PBPK) Modeling for Chloroprene (Ramboll, 2020) and a Supplemental Analysis of Metabolite Clearance (U.S. EPA, 2020)([EPA-HQ-ORD-2020-0181](https://www.regulations.gov/docket/EPA-HQ-ORD-2020-0181))
 
 ## Invited talk
 
@@ -154,6 +158,10 @@ Research Topic "[Development and utilizing computational tools to support risk a
 > **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: Global Sensitivity Analysis in Physiologically Based Kinetic Modeling. R package. [[CRAN](https://cran.r-project.org/web/packages/pksensi/index.html)] [[GitHub](https://github.com/nanhung/pksensi)]
 
 ## Journal Article 
+
+2022
+
+> Luo YS, Chen Z, **Hsieh NH**, Lin, TE. Chemical and biological assessments of environmental mixtures: A review of current trends, advances, and future perspectives. Journal of Hazardous Materials. 2022. 128658.
 
 2021
 
