@@ -43,12 +43,12 @@ if(!tinytex::is_tinytex()) tinytex::install_tinytex()
 
 # EXPERIENCE
 
-California Department of Pesticide Regulation  
+Human Health Assessment Branch, California Department of Pesticide Regulation  
 Staff Toxicologist  \hfill 09/2020 -- current
 
 - Initiating population exposure reconstruction of pyrethroids' mixtures from biomonitoring data by using toxicokinetic-based high-throughput (HT) and non-HT approaches for risk-based decision making 
 
-California Department of Pesticide Regulation  
+Human Health Assessment Branch, California Department of Pesticide Regulation  
 Associate Toxicologist  \hfill 07/2020 -- 8/2022
 
 - Conducting pesticide data review and exposure assessment for product registration
