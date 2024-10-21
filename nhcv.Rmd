@@ -196,6 +196,7 @@ External Peer Review of a Report on Physiologically Based Pharmacokinetic (PBPK)
 2023
 
 > Mozaffari S, Bayatian M, **Hsieh NH**, Khadem M, Garmaroudi AA, Ashrafi K, Shahtaheri SJ*. Reconstruction of exposure to methylene diphenyl-4, 4'-diisocyanate (MDI) aerosol using computational fluid dynamics, physiologically based toxicokinetics and statistical modeling. Inhalation Toxicology. 2023 Oct 15;35(11-12):285-99. https://doi.org/10.1080/08958378.2023.2285772
+
 2022
 
 > Luo YS*, Chen Z, **Hsieh NH**, Lin, TE. Chemical and biological assessments of environmental mixtures: A review of current trends, advances, and future perspectives. Journal of Hazardous Materials. 2022. 128658. https://doi.org/10.1016/j.jhazmat.2022.128658
