@@ -43,12 +43,18 @@ if(!tinytex::is_tinytex()) tinytex::install_tinytex()
 
 # EXPERIENCE
 
-Human Health Assessment Branch, California Department of Pesticide Regulation  
-Staff Toxicologist  \hfill 09/2020 -- current
+Human Exposure & Health Effect Modeling Section, Human Health Assessment Branch, California Department of Pesticide Regulation  
+Staff Toxicologist  \hfill 09/2022 -- current
 
-- Initiating population exposure reconstruction of pyrethroids' mixtures from biomonitoring data by using toxicokinetic-based high-throughput (HT) and non-HT approaches for risk-based decision making 
+- Conducted research topic: Applying Bayesian Physiologically-Based Kinetic Model (PBK) in Biomonitoring Data-Driven Exposure Assessment of Pyrethroids Pesticides in the US Population. The research underscores the significance of the PBK model in health risk assessments and its potential applications in future studies.
+  
+  Highlights:
+  - Utilized NHANES data to assess pyrethroid exposure from 1999 to 2016.
+  - Compared the PBK model with the EPA high-throughput toxicokinetic model.
+  - Identified exposure trends and health risks in different age groups.
+  - Provided insights into model reliability and risk assessment methodologies.
 
-Human Health Assessment Branch, California Department of Pesticide Regulation  
+Human Exposure & Health Effect Modeling Section, Human Health Assessment Branch, California Department of Pesticide Regulation  
 Associate Toxicologist  \hfill 07/2020 -- 8/2022
 
 - Conducting pesticide data review and exposure assessment for product registration
@@ -56,14 +62,19 @@ Associate Toxicologist  \hfill 07/2020 -- 8/2022
 Department of Veterinary Integrative Biosciences, Texas A&M University  
 Postdoctoral Research Associate  \hfill 08/2016 -- 07/2020 
 
-- Participated in the research project from the Food and Drug Administration that aims to apply the global sensitivity analysis approach to improve the computer performance in the Bayesian population physiologically based pharmacokinetic (PBPK) model 
-- Participated in the research project from the US Environmental Protection Agency to develop a multi-compartment toxicokinetic model to quantitatively compare trichloroethylene (TCE) and tetrachloroethylene (PCE) metabolism 
+- Participated in the research project from the Food and Drug Administration that aims to apply the global sensitivity analysis approach to improve the computer performance in the Bayesian population physiologically based pharmacokinetic model 
+- Participated in the research project from the US Environmental Protection Agency to develop a multi-compartment toxicokinetic model to quantitatively compare trichloroethylene and tetrachloroethylene metabolism 
 - Participated in the Texas A&M Superfund research project to assess the exposure risks of complex environmental mixtures by integrating the organotypic in-vitro human stem cell assay and probabilistic concentration-response modeling 
 
 Division of Occupational Hazards Assessment, Institute of Labor, Occupational Safety and Health, Ministry of Labor  
 Research Associate \hfill 08/2013 -- 07/2016 
 
 - Conducted the research project to assess the occupational health risk in high-lead exposed factories
+  
+  Highlights:
+  - Epidemiological investigated the relationship between lead exposure and anemia risk among workers in lead-related manufacturing industries.
+  - Benchmark dose modeling (BMD) approach was applied to estimate the critical blood lead (BPb) levels-associated abnormal hematological indicators.
+  - Bayesian decision analysis was applied to determine whether BMD could be implicated as a suitable BPb standard.
 
 # EDUCATION
 
@@ -106,14 +117,19 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 
 # SERVICES TO THE PROFESSION
 
-## Guest Topic Editor
-Research Topic "[Development and utilizing computational tools to support risk assessment](https://www.frontiersin.org/research-topics/23958/development-and-utilizing-computational-tools-to-support-risk-assessment)" in Frontiers in Pharmacology
+## Journal Editor
 
-## Peer review for scientific journals (count: 50+; [Publons](https://publons.com/researcher/435686/nan-hung-hsieh/peer-review/))
+- Associated Editor - Predictive Toxicology in [Frontiers in Pharmacology](https://loop.frontiersin.org/people/526866/editorial)
+- Guest Topic Editor - Research Topic "[Development and utilizing computational tools to support risk assessment](https://www.frontiersin.org/research-topics/23958/development-and-utilizing-computational-tools-to-support-risk-assessment)" in Frontiers in Pharmacology
 
+## Peer review for scientific journals (count: 50+; [Web of Science](https://www.webofscience.com/wos/author/record/AFK-2545-2022))
+
+- Building and Environment
 - Computational and Mathematical Methods in Medicine 
 - Computational Toxicology 
-- Environmental Chemistry Letters 
+- Chemosphere
+- Environmental Chemistry Letters
+- Environmental Sciencend Pollution Research
 - International Journal of Environmental Research and Public Health 
 - International Journal of Molecular Sciences 
 - European Journal of Pharmaceutical Sciences 
@@ -155,7 +171,6 @@ External Peer Review of a Report on Physiologically Based Pharmacokinetic (PBPK)
 
 - Operating System: GNU Linux; Windows Subsystem for Linux
 - Scientific computing: R, GNU MCSim
-- Certificate: [Advanced R Programming](https://www.coursera.org/account/accomplishments/certificate/Q3PR7Z4A257W), [Building R Packages](https://www.coursera.org/account/accomplishments/certificate/JGBH8D8V8SXU), [Data Science and Machine Learning Essentials](https://courses.edx.org/certificates/user/8318625/course/course-v1:Microsoft+DAT203x+1T2016), [The R Programming Environment](https://www.coursera.org/account/accomplishments/certificate/DEF3F5EJV3M2) 
 
 # OTHER
 
@@ -172,6 +187,14 @@ External Peer Review of a Report on Physiologically Based Pharmacokinetic (PBPK)
 > **Hsieh NH**, Reisfeld B, Chiu WA. pksensi: Global Sensitivity Analysis in Physiologically Based Kinetic Modeling. R package. [[CRAN](https://cran.r-project.org/web/packages/pksensi/index.html)] [[GitHub](https://github.com/nanhung/pksensi)]
 
 ## Journal Article 
+
+2024
+
+> **Hsieh NH**, Kwok ES. Applying Bayesian Physiologically-Based Kinetic Model in Biomonitoring Data-Driven Exposure Assessment of Pyrethroids Pesticides in the US Population. To be submitted to Journal of Exposure Science and Environmental Epidemiology.
+
+2023
+
+> Mozaffari S, Bayatian M, **Hsieh NH**, Khadem M, Garmaroudi AA, Ashrafi K, Shahtaheri SJ. Reconstruction of exposure to methylene diphenyl-4, 4'-diisocyanate (MDI) aerosol using computational fluid dynamics, physiologically based toxicokinetics and statistical modeling. Inhalation Toxicology. 2023 Oct 15;35(11-12):285-99.
 
 2022
 
