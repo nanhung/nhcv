@@ -172,6 +172,7 @@ External Peer Review of a Report on Physiologically Based Pharmacokinetic (PBPK)
 
 - Operating System: GNU Linux; Windows Subsystem for Linux
 - Scientific computing: R, GNU MCSim
+- Editor: Vim
 
 # OTHER
 
