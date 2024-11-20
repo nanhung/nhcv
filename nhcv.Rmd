@@ -143,6 +143,12 @@ Sensitivity Analysis algorithm to reduce PBPK model parameter dimensionality*. [
 - The Journal of Open Source Software
 - The R Journal
 
+## Peer review for software package
+
+- rfasst: An R tool to estimate air pollution impacts on health and agriculture. https://doi.org/10.21105/joss.03820
+- shinyssdtools: A web application for fitting Species Sensitivity Distributions (SSDs). https://doi.org/10.21105/joss.02848
+- sdtools: An R package to fit Species Sensitivity Distributions. https://doi.org/10.21105/joss.01082
+
 ## Peer Review of USEPA Project 
 External Peer Review of a Report on Physiologically Based Pharmacokinetic (PBPK) Modeling for Chloroprene (Ramboll, 2020) and a Supplemental Analysis of Metabolite Clearance (U.S. EPA, 2020)([EPA-HQ-ORD-2020-0181](https://www.regulations.gov/docket/EPA-HQ-ORD-2020-0181))
 
